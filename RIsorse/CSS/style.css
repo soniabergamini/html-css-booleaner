@@ -63,3 +63,26 @@ tbody td {
 .backgroundazzurro {
     background-color: #B2E5F2;
 }
+
+/* Sezione footer */
+.imgbox {
+    height: 150px;
+    width: 200px;
+    border: 1px solid black;
+}
+
+#monitor {
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    margin-bottom: 10px;
+}
+
+.whitetext {
+    color: white;
+    margin: 10px;
+}
+
+#graph {
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+}
