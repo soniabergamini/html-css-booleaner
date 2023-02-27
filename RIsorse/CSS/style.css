@@ -1,0 +1,13 @@
+header {
+    height: 150px;
+    background-color: #4EA0FF;
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat;
+    background-size: 40%;
+}
+
+img {
+    height: 50%;
+    margin-top: 70px;
+    margin-left: 10px;
+}
