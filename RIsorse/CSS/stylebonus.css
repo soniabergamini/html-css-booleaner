@@ -1,0 +1,7 @@
+header {
+    width: 800px;
+}
+
+main, footer {
+    margin-left: 100px;
+}
