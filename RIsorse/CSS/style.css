@@ -6,8 +6,35 @@ header {
     background-size: 40%;
 }
 
-img {
+#logo {
     height: 50%;
     margin-top: 70px;
     margin-left: 10px;
+}
+
+h1 {
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+
+.nomargin {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.greytext {
+    color: grey;
+}
+
+span {
+    color: #27ACE6;
+}
+ 
+section img {
+    margin-top: 10px;
+    margin-left: 0;
+}
+
+.small {
+    font-size: smaller;
 }
